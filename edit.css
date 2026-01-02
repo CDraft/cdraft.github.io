@@ -1,10 +1,10 @@
 .edit .controller.ds4 {
-    background: url(https://schoettner.github.io/skins/base-custom.png);
+    background: url(https://cdraft.github.io/baseController.svg);
 }
 
 
 .controller.edit {
-    background: url(https://schoettner.github.io/skins/base-custom.png);
+    background: url(https://cdraft.github.io/baseController.svg;
 }
 
 
@@ -28,5 +28,6 @@
     position: absolute;
     background: url(https://schoettner.github.io/skins/sticks-custom.png);
 }
+
 
 
