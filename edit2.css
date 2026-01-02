@@ -27,8 +27,8 @@
 }
 
 .xbox .trigger {
-  width: 88px;
-  height: 121px;
+  width: 79px;
+  height: 111px;
   background: url(https://cdraft.github.io/Trigger.svg);
   opacity: 0;
 }
@@ -189,7 +189,7 @@
   position: absolute;
   background: url(https://cdraft.github.io/stickLeft.svg);
   background-position: -85px 0;
-  height: 83px;
+  height: 84px;
   width: 83px;
 }
 
@@ -201,8 +201,8 @@
 position: absolute;
   background: url(https://cdraft.github.io/stickLeft.svg);
   background-position: -85px 0;
-  height: 83px;
-  width: 83px;
+  height: 84px;
+  width: 84px;
   top: 0;
   left: 0;
 }
@@ -211,10 +211,8 @@ position: absolute;
   position: absolute;
   background: url(https://cdraft.github.io/stickRight.svg);
   background-position: -85px 0;
-  height: 83px;
-  width: 83px;
-  top: 0;
-  left: 0;
+  height: 84px;
+  width: 84px;
   top: 113px;
   left: 288px;
 }
