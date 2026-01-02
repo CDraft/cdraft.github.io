@@ -23,7 +23,8 @@
   width: 446px;
   height: 121px;
   position: absolute;
-  left: 152px;
+  left: 155px;
+  top: 3px;
 }
 
 .xbox .trigger {
@@ -203,8 +204,8 @@ position: absolute;
   background-position: -85px 0;
   height: 84px;
   width: 84px;
-  top: 0;
-  left: 0;
+  top: 2;
+  left: 2;
 }
 
 .xbox .stick.right {
@@ -213,8 +214,8 @@ position: absolute;
   background-position: -85px 0;
   height: 84px;
   width: 84px;
-  top: 113px;
-  left: 288px;
+  top: 115px;
+  left: 290px;
 }
 
 .xbox .dpad {
