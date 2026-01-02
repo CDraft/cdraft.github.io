@@ -1,5 +1,5 @@
 .controller.edit {
-  background: url(assets/base.svg);
+  background: url(baseController.svg);
 }
 
 .edit.disconnected {
@@ -80,3 +80,4 @@
     left: 55px;
     top: 5px;
 }
+
